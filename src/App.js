@@ -8,7 +8,10 @@ function App() {
         <header className="App-header"></header>
         <Dictionary defaultKeyword="sunset" />
         <footer className="App-footer mt-5 text-center">
-          Open-sourced code by Jessica Wolski
+          <a href="https://github.com/Jessw1988/dictionary-app">
+            Open-sourced code{" "}
+          </a>{" "}
+          by Jessica Wolski
         </footer>
       </div>
     </div>

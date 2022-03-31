@@ -17,7 +17,7 @@ export default function Meaning(props) {
             </div>
           );
         } else {
-          return;
+          return false;
         }
       })}
     </div>

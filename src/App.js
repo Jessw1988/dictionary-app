@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header"></header>
-        <Dictionary />
-        <footer className="App-footer">
+        <Dictionary defaultKeyword="sunset" />
+        <footer className="App-footer mt-5 text-center">
           Open-sourced code by Jessica Wolski
         </footer>
       </div>
